@@ -23,5 +23,5 @@
 - npm install @capacitor-mlkit/barcode-scanning
 
 - npx ionic cap sync
-- 
+
 - ionic lab 
